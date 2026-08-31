@@ -131,7 +131,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 #### Postdoctoral Scholars
 
 - Dr. Aravind H. Patil, Postdoctoral Scholar (Korea Polar Research Institute (KOPRI) & Dept. of Materials Science Engineering, INU, January 2022 – August 2026 → KOPRI & Graduate School of Semiconductor Materials & Devices Engineering, UNIST, September 2026 – present)
-    - Icephobicity, Superhydrophobic coating, ALD, Density functional theory
+    - Superhydrophobic/Icephobic coatings, Atomic layer deposition
 - Dr. Summal Zoha, Postdoctoral Scholar (Dept. of Materials Science Engineering, INU, June 2026 – present)
     - Area selective ALD
 - Dr. Ngoc Le Trinh, Postdoctoral Scholar (Dept. of Materials Science Engineering, INU, June 2026 – August 2026 → Graduate School of Semiconductor Materials & Devices Engineering, UNIST, September 2026 – present)
@@ -165,7 +165,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 #### Undergraduate Internship
 
 - Nayoung Lee, Undergraduate Internship (Dept. of Materials Science Engineering, INU, June 2025 – present)
-    - Mo ALD, InN ALD
+    - High crystallinity in ultrathin films
 
 ### Alumni
 
