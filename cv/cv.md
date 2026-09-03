@@ -3,7 +3,7 @@
 
 Professor, Graduate School of Semiconductor Materials & Devices Engineering,  
 Ulsan National Institute of Science and Technology (UNIST)  
-[hbrlee@unist.ac.kr](mailto:hbrlee@unist.ac.kr), <https://nanomaterial.kr>
+[hbrlee@unist.ac.kr](mailto:hbrlee@unist.ac.kr), <https://hbrl-research.group>
 
 Executive Editor, Chemistry of Materials, ACS Publications  
 [lee-office@cm.acs.org](mailto:lee-office@cm.acs.org), <http://pubs.acs.org/journal/cmatex>
@@ -14,8 +14,8 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 ## Highlights
 
-- Ph.D at POSTECH, Republic of Korea (’09), Postdoc at Stanford, USA (’10-’13), Assistant Prof. (’13-’17) & Associate Professor (’17-’22) & Professor (’22-present) at Incheon National University, Republic of Korea
-- 144 published papers, 11833 citations, 58 h-index, 42 granted patents, 12 pending patents
+- Ph.D at POSTECH, Republic of Korea (’09), Postdoc at Stanford, USA (’10-’13), Assistant Prof. (’13-’17) & Associate Professor (’17-’22) & Professor (’22-’26.8) at Incheon National University, Republic of Korea
+- 144 published papers, 11833 citations, 58 h-index, 42 granted patents, 13 pending patents
 - Executive Editor of Chemistry of Materials (Sep ’25-present) and Associate Editor (Jan ’18-Aug ‘25)
 - [Google Scholar](https://scholar.google.com/citations?user=OiDbRewAAAAJ&hl=ko) · [ORCID](https://orcid.org/0000-0002-0097-6738)
 
@@ -37,7 +37,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 - Professor, Graduate School of Semiconductor Materials & Devices Engineering, Ulsan National Institute of Science and Technology (UNIST), Republic of Korea
     - Period: Starting 9/2026
 - Professor, Department of Materials Science & Engineering, Incheon National University, Republic of Korea
-    - Period: 2/2022 - present
+    - Period: 2/2022 - 8/2026
 - Executive Editor, Chemistry of Materials, American Chemical Society Publications, USA
     - Period: 9/2025 - present
 - Associate Editor, Chemistry of Materials, American Chemical Society Publications, USA
@@ -437,15 +437,16 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 1. Han-Bo-Ram Lee, Summal Zoha, Yongjin Kim, Sanghoon Ahn, Minkyung Lee, Woojin Lee, Hangyeol Choi, “Semiconductor Devices,” 10-2024-0087160, 7/2/2024
 2. Han-Bo-Ram Lee, Il-Kwon Oh, “Dysprosium as a Crystalline Aligner in HfO<sub>2</sub> Thin Films by Atomic Layer Deposition,” 10-2022-0164227, 11/30/2022
 3. Han-Bo-Ram Lee, Summal Zoha, “Area Selective Deposition of HfO<sub>2</sub> ALD on Metal, Oxide, and Nitride Using Organothiol Inhibitor,” 10-2022-0047877, 4/19/2022
-4. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Sung Hwan Jo, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method And Manufacturing Method Of Electronic Device Applying The Same,” 10-2022-0021554, 2/18/2022
-5. Taekjib Choi, Ho-Jin Lee, Jun-Bong Lee, Han-Bo-Ram Lee, Hong-Woon Lee, Byung-Kook Ko, Jae Kwang Lee, “Self-rectifying Ferroelectric Tunnel Junction Memory Device and Crosspoint Array Having the Same,” 10-2018-0037603, 3/30/2018
-6. Han-Bo-Ram Lee, “Fabrication Method of High Quality Materials for Quadruple Patterning using Heteroatom Alloying,” PCT/KR2017/013109, 11/17/2017
-7. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Method for Forming Thin Film,” PCT/ KR2016/014333, 12/7/2016
-8. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Filter For Removing Moisture And Method For Manufacturing The Same,” PCT/KR2016/014160, 12/2/2016
-9. Taeyoon Lee, Jong Hyun Ahn, Juree Hong, Jae-Bok Lee, Han-Bo-Ram Lee, “Method for Healing Defect of Conductive Layer, Method for Forming Metal-Carbon Compound Layer, 2D Nano Materials, Transparent Electrode and Method for Manufacturing the Same,” US 15/196,820, 06/29/2016
-10. Han-Bo-Ram Lee, Hyungjun Kim, Chang Mo Yoon, Il-Kwon Oh, “A Functional Filter and Manufacturing Method of The Same,” KR 10-2015-0171229, 12/3/2015
-11. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Method for Forming Coating Layer and Coating Material Having Waterproof Property,” US 14/814,888, 07/31/2015
-12. Jaehong Yun, Han-Bo-Ram Lee, Hyungjun Kim, “Method for Fabrication of Silicide Nanowires with Ru Capping Layer,” KR 10-2010-0140092, 12/31/2010
+4. Woojin Lee, Han-Bo-Ram Lee, Sanghoon Ahn, Ik Su Kim, Sumaira Yasmeen, Byung Kook Ko, Bonwook Gu, “Method for Fabricating Semiconductor Device,” 10-2021-0041146, 3/30/2021 (co-applied with Samsung Electronics; laid-open 10-2022-0061819, 5/13/2022; grant decision received 8/31/2026, pending registration)
+5. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Sung Hwan Jo, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method And Manufacturing Method Of Electronic Device Applying The Same,” 10-2022-0021554, 2/18/2022
+6. Taekjib Choi, Ho-Jin Lee, Jun-Bong Lee, Han-Bo-Ram Lee, Hong-Woon Lee, Byung-Kook Ko, Jae Kwang Lee, “Self-rectifying Ferroelectric Tunnel Junction Memory Device and Crosspoint Array Having the Same,” 10-2018-0037603, 3/30/2018
+7. Han-Bo-Ram Lee, “Fabrication Method of High Quality Materials for Quadruple Patterning using Heteroatom Alloying,” PCT/KR2017/013109, 11/17/2017
+8. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Method for Forming Thin Film,” PCT/ KR2016/014333, 12/7/2016
+9. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Filter For Removing Moisture And Method For Manufacturing The Same,” PCT/KR2016/014160, 12/2/2016
+10. Taeyoon Lee, Jong Hyun Ahn, Juree Hong, Jae-Bok Lee, Han-Bo-Ram Lee, “Method for Healing Defect of Conductive Layer, Method for Forming Metal-Carbon Compound Layer, 2D Nano Materials, Transparent Electrode and Method for Manufacturing the Same,” US 15/196,820, 06/29/2016
+11. Han-Bo-Ram Lee, Hyungjun Kim, Chang Mo Yoon, Il-Kwon Oh, “A Functional Filter and Manufacturing Method of The Same,” KR 10-2015-0171229, 12/3/2015
+12. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Method for Forming Coating Layer and Coating Material Having Waterproof Property,” US 14/814,888, 07/31/2015
+13. Jaehong Yun, Han-Bo-Ram Lee, Hyungjun Kim, “Method for Fabrication of Silicide Nanowires with Ru Capping Layer,” KR 10-2010-0140092, 12/31/2010
 
 ## Technology Transfer
 
@@ -759,7 +760,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 2. “Defect Healing of Graphene by Galvanic Displacement Reaction for Transparent Electrode,” in YP News, The Electronic Times, Veritas Alpha, Energy & Economy Times, 4/20/2016.
 3. “Guest Editor for ACS Virtual Issue (Recent Advances in Atomic Layer Deposition),” in Aju Business Daily, Gukje News, Sport Kyunghyang, Bridge News, Asia Today, Kyeonggi Daily, Kyeongin Daily, 4/14/2016.
 4. "INU Department of Materials Science Engineering and Samsung Advanced Institute of Technology Publish Nano-Process Research in Nature Communications," in Daihan Economy, Sports Kyunghyang, eNews Today, Kiho Ilbo, 12/13/2022. [\[Link\]](https://sports.khan.co.kr/article/202212131335003)
-5. "Prof. Han-Bo-Ram Lee (INU) and Prof. Il-Kwon Oh (Ajou University) Transfer ₩1.175 Billion in Semiconductor Research Equipment Technology," in Daihan Economy, Seoul Ilbo, Gyeonggi Domin Ilbo, INU News, 12/20/2023. [\[Link\]](https://www.inu.ac.kr/bbs/inu/2618/384381/artclView.do)
+5. "Prof. Han-Bo-Ram Lee (INU) and Prof. Il-Kwon Oh (Ajou University) Transfer KRW 1.175 Billion in Semiconductor Research Equipment Technology," in Daihan Economy, Seoul Ilbo, Gyeonggi Domin Ilbo, INU News, 12/20/2023. [\[Link\]](https://www.inu.ac.kr/bbs/inu/2618/384381/artclView.do)
 6. "INU Team Publishes Ultra-Thin Insulating Film Technology for Next-Generation Semiconductors in ACS Nano," in Naewoeilbo, Jeonmae, Asia Ilbo, 2025. [\[Link\]](https://www.naewoeilbo.com/news/articleView.html?idxno=2367107)
 7. "INU Research Team's ALD Equipment and Process Technology Transferred to CN1, Opening a New Horizon in AI Computing Speed," in Naewoeilbo, Bridge Economy (Viva100), INU News, 9/25/2025. [\[Link 1\]](https://www.naewoeilbo.com/news/articleView.html?idxno=2197935) [\[Link 2\]](https://www.viva100.com/article/20250925501656)
 8. "INU Prof. Han-Bo-Ram Lee Research Team Publishes Next-Generation Semiconductor Ruthenium Interconnect Technology in JACS," in Gyeongin Newspaper, Gukje News, Newstown, Gyeonginmaeil, Korean Media News, Newsis, Golden Times, 6/10/2026. [\[Link\]](https://www.newsis.com/view/NISX20260610_0003663624)
