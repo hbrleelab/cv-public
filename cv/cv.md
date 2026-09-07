@@ -15,7 +15,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 ## Highlights
 
 - Ph.D at POSTECH, Republic of Korea (’09), Postdoc at Stanford, USA (’10-’13), Assistant Prof. (’13-’17) & Associate Professor (’17-’22) & Professor (’22-’26.8) at Incheon National University, Republic of Korea
-- 144 published papers, 11833 citations, 58 h-index, 42 granted patents, 13 pending patents
+- 144 published papers, 11833 citations, 58 h-index, 43 granted patents, 13 pending patents
 - Executive Editor of Chemistry of Materials (Sep ’25-present) and Associate Editor (Jan ’18-Aug ‘25)
 - [Google Scholar](https://scholar.google.com/citations?user=OiDbRewAAAAJ&hl=ko) · [ORCID](https://orcid.org/0000-0002-0097-6738)
 
@@ -389,55 +389,56 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 ### Granted
 
-1. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” 10-2981295, 6/18/2026
-2. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” US 12,604,681, 4/14/2026
-3. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” US 12,540,395, 2/3/2026
-4. Han-Bo-Ram Lee, Summal Zoha, “Selective Deposition Method of Thin Film Using Area-selective Atomic Layer Deposition and Substrate on Which a Thin Film is Selectively Formed,” KR 10-2892382, 11/25/2025
-5. Han-Bo-Ram Lee, Chan Hee Mun, “Methods for Implementation of Icephobic Surface with Polymer and Micro/Nano Powder,” 10-2489091, 1/11/2023
-6. Han-Bo-Ram Lee, Chi Thang Nguyen, “Method for Fabricating a Thin Film and a Thin Film Fabricated by the Same,” 10-2341035, 12/15/2021
-7. Han-Bo-Ram Lee, Woo Hee Kim, “A Defect Healing Method by Selective Deposition for Memory Device,” 10-2225183, 3/3/2021
-8. Han-Bo-Ram Lee, Hyun Gu Kim, Woo Hyeok Kwon, “A Color Electronic Textile and Preparation Method Thereof,” 10-2172190, 10/26/2020
-9. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Superhydrophobic Coating Material and Method for Manufacturing the Same,” US 10,392,701 B2, 08/27/2019
-10. Han-Bo-Ram Lee, Jae-Kwang Lee, Mohammed Rizwan Khan, “Method for Implementing Hydrophobic Surface using Spin Coating,” KR 10-1974955, 4/26/2019
-11. Han-Bo-Ram Lee, Jae-Kwang Lee, Mohammed Rizwan Khan, “Method for Implementing Hydrophobic Surface using Spray Coating,” 10-1974953, 4/26/2019
-12. Han-Bo-Ram Lee, Hyungjun Kim, Chang Mo Yoon, Il-Kwon Oh, “Method for Forming Thin Film,” KR 10-1942819, 1/22/2019
-13. Han-Bo-Ram Lee, “Fabrication Method of High Quality Materials for Quadruple Patterning using Heteroatom Alloying,” KR 10-1900181, 9/12/2018
-14. Han-Bo-Ram Lee, “Method for Forming Superhydrophobic Coating Layer using PDMS and Micropowders,” KR 10-1871073, 6/19/2018
-15. Han-Bo-Ram Lee, “Method for Modifying Hydrophobic Surfaces using Hydrophobic Ceramic Powders Having Core-shell Structure,” KR 10-1860206, 5/15/2018
-16. Han-Bo-Ram Lee, “Fabrication Method of Conductive Fibers,” KR 10-1846084, 3/30/2018
-17. Han-Bo-Ram Lee, Jaehong Yun, “Method for Forming Hydrophobic Coating Layer using Structuralizaion of PDMS Surface,” KR 10-1807407, 12/4/2017
-18. Han-Bo-Ram Lee, Hyun Gu Kim, “Self-healing Method of Self-healing Polymer using Defect-healed Reduced Graphene Oxide Heater,” KR 10-1807459, 12/4/2017
-19. Han-Bo-Ram Lee, Hyungjun Kim, Bo-Eun Park, Il-Kwon Oh, “Enhanced Electric Device for MOS Capacitor and the Manufacturing Method thereof,” KR 10-1752059, 6/22/2017
-20. Han-Bo-Ram Lee, Hyungjun Kim, Bo-Eun Park, Il-Kwon Oh, “Enhanced electrical characteristic Electric Device for MIM Capacitor and the Manufacturing Method thereof,” KR 10-1752060, 6/22/2017
-21. Han-Bo-Ram Lee, Hyungjun Kim, Jun Ho Choi, Il-Kwon Oh, “Method for Modifying Surface of Substrate Using Rare Earth Oxide Thin Film,” KR 10-1751619, 6/21/2017
-22. Taeyoon Lee, Jong Hyun Ahn, Juree Hong, Jae-Bok Lee, Han-Bo-Ram Lee, “Method for Healing Defect of Conductive Layer, Method for Forming Metal-carbon Compound Layer, 2D Nano Materials, Transparent Electrode and Method for Manufacturing the Same,” KR 10-1720168, 3/21/2017
-23. Han-Bo-Ram Lee, “3D Conductive Coating Method For Clear SEM Measurement,” KR 10-1686386, 12/7/2016
-24. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Filter For Removing Moisture And Method For Manufacturing The Same,” KR 10-1670337, 10/24/2016
-25. Han-Bo-Ram Lee, Hyun Gu Kim, “Manufacturing Method of Ultrathin Continuous Metal Film Using Surface Funtionalization,” KR 10-1672984, 10/31/2016
-26. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Apparatus for Plasma Enhanced Atomic Layer Deposition and Method for Forming Thin Film Oxides Using The Same,” KR 10-1662194, 9/27/2016
-27. Hyungjun Kim, Soo Hyun Kim, Jaehong Yun, Han-Bo-Ram Lee, “Semiconductor Device and Method For Manufacturing the Same,” US 9,396,994, 7/19/2016
-28. Hyungjun Kim, Soo Hyun Kim, Jaehong Yun, Han-Bo-Ram Lee, “Semiconductor Device and Method For Manufacturing the Same,” KR 10-1621852, 5/11/2016
-29. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Superhydrophobic Coating Material and Method for Manufacturing the Same,” KR 10-1617396, 4/26/2016
-30. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Method For Forming Coating Layer and Coating Material Having Waterproof Property,” KR 10-1615897, 4/21/2016
-31. Han-Bo-Ram Lee, “Manufacturing Method of Nanowire using Atomic Layer Deposition,” KR 10-1602628, 3/7/2016
-32. Gilsang Yoo, Il-Kwon Oh, Hyungjun Kim, Han-Bo-Ram Lee, “Apparatus Method for Performing Plasma Enhanced Atomic Layer Deposition Employing Very High Frequency,” KR 10-1596329, 2/16/2016
-33. Han-Bo-Ram Lee and Kwan Pyo Kim, “Healing Method of Defect using Atomic Layer Deposition,” KR 10-1568159, 11/5/2015
-34. Jaehong Yun, Soo Hyun Kim, Hyungjun Kim, Han-Bo-Ram Lee, “Copper Layer Capping Method and Method for Fabricating Copper Wire Employing the Same,” KR 10-1553357, 9/9/2015
-35. Han-Bo-Ram Lee, Jaemin Kim, Jeong Won Lee, Heung-Soon Lee, Hyungjun Kim, “Method for Fabrication of Metal Nanostructures by using Supercritical Fluid Deposition,” KR 10-1124351, 2/29/2012
-36. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, Hyungjun Kim, “Manufacturing Method of Metal Nanostructures,” KR 10-1124352, 2/29/2012
-37. Han-Bo-Ram Lee, Woo-Hee Kim, Hyungjun Kim, “Method for Forming Contacts of Semiconductor Devices using The Selective Deposition,” KR 10-1078309, 10/25/2011
-38. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, J.Y. Son, Hyungjun Kim, “Fabrication Method of Catalyst-less Metal Nanorods by Plasma-Enhanced Atomic Layer Deposition and A Semiconductor Element,” KR 10-0920456, 9/29/2009
-39. Han-Bo-Ram Lee, J.Y. Son, Hyungjun Kim, “Manufacturing Method of Metal Silicide Thin Layer by Plasma-Enhanced Atomic Layer Deposition without Annealing,” KR 10-0920455, 9/29/2009
-40. Han-Bo-Ram Lee, J.Y. Son, Hyungjun Kim, “Manufacturing Method of Metal Silicide by Plasma-Enhanced Atomic Layer Deposition for Contact Application in Semiconductor Devices,” KR 10-0872799, 12/2/2008
-41. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, Hyungjun Kim, “Method for Forming Metal-Silicide Layer in Semiconductor Devices using Plasma Nitridation,” KR 10-0872801, 12/2/2008
-42. Hyungjun Kim, Y.H. Shin, Y.S. Woo, Han-Bo-Ram Lee, J.Y. Son, “Transistor and Nonvolatile Memory using Deformation Resistivity of Carbon Nanotube and Piezoelectric Effect,” KR 10-0848813, 7/28/2007
+1. Woojin Lee, Han-Bo-Ram Lee, Sanghoon Ahn, Ik Su Kim, Sumaira Yasmeen, Byung Kook Ko, Bonwook Gu, “Method for Fabricating Semiconductor Device,” 10-3015198, 9/1/2026 (with Samsung Electronics)
+2. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” 10-2981295, 6/18/2026
+3. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” US 12,604,681, 4/14/2026
+4. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Tae Hwan Lim, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method and Method of Manufacturing Electronic Device Using the Same,” US 12,540,395, 2/3/2026
+5. Han-Bo-Ram Lee, Summal Zoha, “Selective Deposition Method of Thin Film Using Area-selective Atomic Layer Deposition and Substrate on Which a Thin Film is Selectively Formed,” KR 10-2892382, 11/25/2025
+6. Han-Bo-Ram Lee, Chan Hee Mun, “Methods for Implementation of Icephobic Surface with Polymer and Micro/Nano Powder,” 10-2489091, 1/11/2023
+7. Han-Bo-Ram Lee, Chi Thang Nguyen, “Method for Fabricating a Thin Film and a Thin Film Fabricated by the Same,” 10-2341035, 12/15/2021
+8. Han-Bo-Ram Lee, Woo Hee Kim, “A Defect Healing Method by Selective Deposition for Memory Device,” 10-2225183, 3/3/2021
+9. Han-Bo-Ram Lee, Hyun Gu Kim, Woo Hyeok Kwon, “A Color Electronic Textile and Preparation Method Thereof,” 10-2172190, 10/26/2020
+10. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Superhydrophobic Coating Material and Method for Manufacturing the Same,” US 10,392,701 B2, 08/27/2019
+11. Han-Bo-Ram Lee, Jae-Kwang Lee, Mohammed Rizwan Khan, “Method for Implementing Hydrophobic Surface using Spin Coating,” KR 10-1974955, 4/26/2019
+12. Han-Bo-Ram Lee, Jae-Kwang Lee, Mohammed Rizwan Khan, “Method for Implementing Hydrophobic Surface using Spray Coating,” 10-1974953, 4/26/2019
+13. Han-Bo-Ram Lee, Hyungjun Kim, Chang Mo Yoon, Il-Kwon Oh, “Method for Forming Thin Film,” KR 10-1942819, 1/22/2019
+14. Han-Bo-Ram Lee, “Fabrication Method of High Quality Materials for Quadruple Patterning using Heteroatom Alloying,” KR 10-1900181, 9/12/2018
+15. Han-Bo-Ram Lee, “Method for Forming Superhydrophobic Coating Layer using PDMS and Micropowders,” KR 10-1871073, 6/19/2018
+16. Han-Bo-Ram Lee, “Method for Modifying Hydrophobic Surfaces using Hydrophobic Ceramic Powders Having Core-shell Structure,” KR 10-1860206, 5/15/2018
+17. Han-Bo-Ram Lee, “Fabrication Method of Conductive Fibers,” KR 10-1846084, 3/30/2018
+18. Han-Bo-Ram Lee, Jaehong Yun, “Method for Forming Hydrophobic Coating Layer using Structuralizaion of PDMS Surface,” KR 10-1807407, 12/4/2017
+19. Han-Bo-Ram Lee, Hyun Gu Kim, “Self-healing Method of Self-healing Polymer using Defect-healed Reduced Graphene Oxide Heater,” KR 10-1807459, 12/4/2017
+20. Han-Bo-Ram Lee, Hyungjun Kim, Bo-Eun Park, Il-Kwon Oh, “Enhanced Electric Device for MOS Capacitor and the Manufacturing Method thereof,” KR 10-1752059, 6/22/2017
+21. Han-Bo-Ram Lee, Hyungjun Kim, Bo-Eun Park, Il-Kwon Oh, “Enhanced electrical characteristic Electric Device for MIM Capacitor and the Manufacturing Method thereof,” KR 10-1752060, 6/22/2017
+22. Han-Bo-Ram Lee, Hyungjun Kim, Jun Ho Choi, Il-Kwon Oh, “Method for Modifying Surface of Substrate Using Rare Earth Oxide Thin Film,” KR 10-1751619, 6/21/2017
+23. Taeyoon Lee, Jong Hyun Ahn, Juree Hong, Jae-Bok Lee, Han-Bo-Ram Lee, “Method for Healing Defect of Conductive Layer, Method for Forming Metal-carbon Compound Layer, 2D Nano Materials, Transparent Electrode and Method for Manufacturing the Same,” KR 10-1720168, 3/21/2017
+24. Han-Bo-Ram Lee, “3D Conductive Coating Method For Clear SEM Measurement,” KR 10-1686386, 12/7/2016
+25. Hyungjun Kim, Il-Kwon Oh, Chang-Mo Yun, Han-Bo-Ram Lee, “Filter For Removing Moisture And Method For Manufacturing The Same,” KR 10-1670337, 10/24/2016
+26. Han-Bo-Ram Lee, Hyun Gu Kim, “Manufacturing Method of Ultrathin Continuous Metal Film Using Surface Funtionalization,” KR 10-1672984, 10/31/2016
+27. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Apparatus for Plasma Enhanced Atomic Layer Deposition and Method for Forming Thin Film Oxides Using The Same,” KR 10-1662194, 9/27/2016
+28. Hyungjun Kim, Soo Hyun Kim, Jaehong Yun, Han-Bo-Ram Lee, “Semiconductor Device and Method For Manufacturing the Same,” US 9,396,994, 7/19/2016
+29. Hyungjun Kim, Soo Hyun Kim, Jaehong Yun, Han-Bo-Ram Lee, “Semiconductor Device and Method For Manufacturing the Same,” KR 10-1621852, 5/11/2016
+30. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Superhydrophobic Coating Material and Method for Manufacturing the Same,” KR 10-1617396, 4/26/2016
+31. Hyungjun Kim, Il-Kwon Oh, Han-Bo-Ram Lee, “Method For Forming Coating Layer and Coating Material Having Waterproof Property,” KR 10-1615897, 4/21/2016
+32. Han-Bo-Ram Lee, “Manufacturing Method of Nanowire using Atomic Layer Deposition,” KR 10-1602628, 3/7/2016
+33. Gilsang Yoo, Il-Kwon Oh, Hyungjun Kim, Han-Bo-Ram Lee, “Apparatus Method for Performing Plasma Enhanced Atomic Layer Deposition Employing Very High Frequency,” KR 10-1596329, 2/16/2016
+34. Han-Bo-Ram Lee and Kwan Pyo Kim, “Healing Method of Defect using Atomic Layer Deposition,” KR 10-1568159, 11/5/2015
+35. Jaehong Yun, Soo Hyun Kim, Hyungjun Kim, Han-Bo-Ram Lee, “Copper Layer Capping Method and Method for Fabricating Copper Wire Employing the Same,” KR 10-1553357, 9/9/2015
+36. Han-Bo-Ram Lee, Jaemin Kim, Jeong Won Lee, Heung-Soon Lee, Hyungjun Kim, “Method for Fabrication of Metal Nanostructures by using Supercritical Fluid Deposition,” KR 10-1124351, 2/29/2012
+37. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, Hyungjun Kim, “Manufacturing Method of Metal Nanostructures,” KR 10-1124352, 2/29/2012
+38. Han-Bo-Ram Lee, Woo-Hee Kim, Hyungjun Kim, “Method for Forming Contacts of Semiconductor Devices using The Selective Deposition,” KR 10-1078309, 10/25/2011
+39. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, J.Y. Son, Hyungjun Kim, “Fabrication Method of Catalyst-less Metal Nanorods by Plasma-Enhanced Atomic Layer Deposition and A Semiconductor Element,” KR 10-0920456, 9/29/2009
+40. Han-Bo-Ram Lee, J.Y. Son, Hyungjun Kim, “Manufacturing Method of Metal Silicide Thin Layer by Plasma-Enhanced Atomic Layer Deposition without Annealing,” KR 10-0920455, 9/29/2009
+41. Han-Bo-Ram Lee, J.Y. Son, Hyungjun Kim, “Manufacturing Method of Metal Silicide by Plasma-Enhanced Atomic Layer Deposition for Contact Application in Semiconductor Devices,” KR 10-0872799, 12/2/2008
+42. Han-Bo-Ram Lee, Gil Ho Gu, C.G. Park, Hyungjun Kim, “Method for Forming Metal-Silicide Layer in Semiconductor Devices using Plasma Nitridation,” KR 10-0872801, 12/2/2008
+43. Hyungjun Kim, Y.H. Shin, Y.S. Woo, Han-Bo-Ram Lee, J.Y. Son, “Transistor and Nonvolatile Memory using Deformation Resistivity of Carbon Nanotube and Piezoelectric Effect,” KR 10-0848813, 7/28/2007
 
 ### Pending
 
-1. Han-Bo-Ram Lee, Summal Zoha, Yongjin Kim, Sanghoon Ahn, Minkyung Lee, Woojin Lee, Hangyeol Choi, “Semiconductor Devices,” 10-2024-0087160, 7/2/2024
-2. Han-Bo-Ram Lee, Il-Kwon Oh, “Dysprosium as a Crystalline Aligner in HfO<sub>2</sub> Thin Films by Atomic Layer Deposition,” 10-2022-0164227, 11/30/2022
-3. Han-Bo-Ram Lee, Summal Zoha, “Area Selective Deposition of HfO<sub>2</sub> ALD on Metal, Oxide, and Nitride Using Organothiol Inhibitor,” 10-2022-0047877, 4/19/2022
-4. Woojin Lee, Han-Bo-Ram Lee, Sanghoon Ahn, Ik Su Kim, Sumaira Yasmeen, Byung Kook Ko, Bonwook Gu, “Method for Fabricating Semiconductor Device,” 10-2021-0041146, 3/30/2021 (co-applied with Samsung Electronics; laid-open 10-2022-0061819, 5/13/2022; grant decision received 8/31/2026, pending registration)
+1. Han-Bo-Ram Lee, Hyewon Park, “Atomic Layer Deposition Method and Semiconductor Device using the Same,” 10-2025-0029862, 3/7/2025
+2. Han-Bo-Ram Lee, Summal Zoha, Yongjin Kim, Sanghoon Ahn, Minkyung Lee, Woojin Lee, Hangyeol Choi, “Semiconductor Devices,” 10-2024-0087160, 7/2/2024
+3. Han-Bo-Ram Lee, Il-Kwon Oh, “Dysprosium as a Crystalline Aligner in HfO<sub>2</sub> Thin Films by Atomic Layer Deposition,” 10-2022-0164227, 11/30/2022
+4. Han-Bo-Ram Lee, Summal Zoha, “Area Selective Deposition of HfO<sub>2</sub> ALD on Metal, Oxide, and Nitride Using Organothiol Inhibitor,” 10-2022-0047877, 4/19/2022
 5. Han-Bo-Ram Lee, Do Han Lee, Eun Soo Kim, Seung Wook Ryu, Sung Hwan Jo, Abu Saad Aqueel Ahmad Ansari, Ngoc Le Trinh, “Thin Film Deposition Method And Manufacturing Method Of Electronic Device Applying The Same,” 10-2022-0021554, 2/18/2022
 6. Taekjib Choi, Ho-Jin Lee, Jun-Bong Lee, Han-Bo-Ram Lee, Hong-Woon Lee, Byung-Kook Ko, Jae Kwang Lee, “Self-rectifying Ferroelectric Tunnel Junction Memory Device and Crosspoint Array Having the Same,” 10-2018-0037603, 3/30/2018
 7. Han-Bo-Ram Lee, “Fabrication Method of High Quality Materials for Quadruple Patterning using Heteroatom Alloying,” PCT/KR2017/013109, 11/17/2017
