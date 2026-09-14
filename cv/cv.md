@@ -15,7 +15,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 ## Highlights
 
 - Ph.D at POSTECH, Republic of Korea (’09), Postdoc at Stanford, USA (’10-’13), Assistant Prof. (’13-’17) & Associate Professor (’17-’22) & Professor (’22-’26.8) at Incheon National University, Republic of Korea
-- 145 published papers, 11833 citations, 58 h-index, 43 granted patents, 13 pending patents
+- 144 published papers, 11833 citations, 58 h-index, 43 granted patents, 13 pending patents
 - Executive Editor of Chemistry of Materials (Sep ’25-present) and Associate Editor (Jan ’18-Aug ‘25)
 - [Google Scholar](https://scholar.google.com/citations?user=OiDbRewAAAAJ&hl=ko) · [ORCID](https://orcid.org/0000-0002-0097-6738)
 
@@ -228,7 +228,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 ## Journal Articles
 
 
-### SCI & SCIE (145 published, 4 submitted, 11833 citations, 58 h-index)
+### SCI & SCIE (144 published, 1 accepted, 4 submitted, 11833 citations, 58 h-index)
 
 1. “Atomic-Layer Sequence Engineering for Thermally Robust Ultrathin High-k Dielectrics,” Byung-Ha Kwak, Ngoc Le Trinh, Yea-Ji Kim, Wonjoong Kim, Hyun-Mi Kim, Han-Bo-Ram Lee, and Il-Kwon Oh*, submitted to **Applied Surface Science**, [Co-author]
 2. “Deep-Learning-Accelerated Dopant Selection for High-k HfO<sub>2</sub> Dielectrics: A Disorder-Resolved Study of Y, Si and Al,” Zunair Masroor, Bonwook Gu, Wonjoong Kim, Ngoc Le Trinh, Summal Zoha, and Han-Bo-Ram Lee*, submitted to **Journal of Chemical Theory and Computation**, [Corresponding author]
