@@ -15,7 +15,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 ## Highlights
 
 - Ph.D at POSTECH, Republic of Korea (’09), Postdoc at Stanford, USA (’10-’13), Assistant Prof. (’13-’17) & Associate Professor (’17-’22) & Professor (’22-’26.8) at Incheon National University, Republic of Korea
-- 144 published papers, 11833 citations, 58 h-index, 43 granted patents, 13 pending patents
+- 145 published papers, 11833 citations, 58 h-index, 43 granted patents, 13 pending patents
 - Executive Editor of Chemistry of Materials (Sep ’25-present) and Associate Editor (Jan ’18-Aug ‘25)
 - [Google Scholar](https://scholar.google.com/citations?user=OiDbRewAAAAJ&hl=ko) · [ORCID](https://orcid.org/0000-0002-0097-6738)
 
@@ -228,7 +228,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 ## Journal Articles
 
 
-### SCI & SCIE (144 published, 1 accepted, 4 submitted, 11833 citations, 58 h-index)
+### SCI & SCIE (145 published, 4 submitted, 11833 citations, 58 h-index)
 
 1. “Atomic-Layer Sequence Engineering for Thermally Robust Ultrathin High-k Dielectrics,” Byung-Ha Kwak, Ngoc Le Trinh, Yea-Ji Kim, Wonjoong Kim, Hyun-Mi Kim, Han-Bo-Ram Lee, and Il-Kwon Oh*, submitted to **Applied Surface Science**, [Co-author]
 2. “Deep-Learning-Accelerated Dopant Selection for High-k HfO<sub>2</sub> Dielectrics: A Disorder-Resolved Study of Y, Si and Al,” Zunair Masroor, Bonwook Gu, Wonjoong Kim, Ngoc Le Trinh, Summal Zoha, and Han-Bo-Ram Lee*, submitted to **Journal of Chemical Theory and Computation**, [Corresponding author]
@@ -239,7 +239,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 7. “Atomic Layer Deposition of Titanium Nitride: Reactant-Dependent Ligand Removal and Oxygen Incorporation,” Yoonseo Choi, Byungchan Lee, Ngoc Le Trinh, Hyewon Park, and Han-Bo-Ram Lee*, submitted to **Journal of Physical Chemistry C**, [Corresponding author]
 8. “Mechanistic Atomic Hydrogen Chemistry for Ruthenium Deposition: From Ligand Elimination to Area-Selective Patterning,” Kyeongmin Min, Chi Thang Nguyen, Eun-Hyoung Cho, Minhyeok Lee, Wonjoong Kim, Youngmin Sunwoo, Eunhyeok Heo, Byungjo Kim, Hao Van Bui and Han-Bo-Ram Lee*, **Journal of the American Chemical Society**, 148 (27), 28484-28497 (2026), 6/9/2026, https://doi.org/10.1021/jacs.6c04779, [Corresponding author]
 9. “Overcoming the Critical Thickness Limit: Interfacial Control of Crystallization Pathways in Atomic-Scale Dielectric Thin Films,” Ngoc Le Trinh, Wonjoong Kim, Minhyeok Lee, Bonwook Gu, Sanh Vo Thi, Ji Liu, Michael Nolan, Hyun-Mi Kim, Hyeongkeun Kim, Joondong Kim, Youngho Kang, and Han-Bo-Ram Lee*, **ACS Nano**, 20 (24), 17273-17285 (2026), 6/8/2026, https://doi.org/10.1021/acsnano.6c00649, [Corresponding author]
-10. “Defect Engineering and Improving Dielectric Performance of Y-Doped ZrO<sub>2</sub> Ultrathin Film through Atomic Layer Modulation,” Ngoc Le Trinh, Wonjoong Kim, Minhyeok Lee, Nayoung Lee, Zunair Masroor, Byung-Ha Kwak, Hyun-Mi Kim, Hyeongkeun Kim, Il-Kwon Oh, and Han-Bo-Ram Lee, **Applied Surface Science**, accepted 9/15/2026 (in press; DOI·vol/issue pending), [Corresponding author] 
+10. “Defect Engineering and Improving Dielectric Performance of Y-Doped ZrO<sub>2</sub> Ultrathin Film through Atomic Layer Modulation,” Ngoc Le Trinh, Wonjoong Kim, Minhyeok Lee, Nayoung Lee, Zunair Masroor, Byung-Ha Kwak, Hyun-Mi Kim, Hyeongkeun Kim, Il-Kwon Oh, and Han-Bo-Ram Lee*, **Applied Surface Science**, 753, 168428 (2026), 9/2026, https://doi.org/10.1016/j.apsusc.2026.168428, [Corresponding author]
 11. “A Dual-Si Atomic Precursor Enabling High-Quality SiN<sub>x</sub> Thin Films via Very High-Frequency Plasma Atomic Layer Deposition,” Young-Jin Lim, Yujin Lee, Kim-Hue Thi Dinh, Min-Jeong Rhee, Yea-Ji Kim, Ngoc Le Trinh, Bonwook Gu, Youngho Kang, Jae Hack Jeong, Han-Bo-Ram Lee*, Stacey Bent*, and Il-Kwon Oh*, **Chemistry of Materials**, 38 (11), 5679–5690 (2026), 5/16/2026, https://doi.org/10.1021/acs.chemmater.6c00586, [Corresponding author]
 12. “AI-Driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices: A Case Study of Hf–Zr–O,” Bonwook Gu, Ngoc Le Trinh, Wonjoong Kim, Zunair Masroor, and Han-Bo-Ram Lee*, **Chemistry of Materials**, 38 (10), 5285–5297 (2026), 5/11/2026, https://doi.org/10.1021/acs.chemmater.6c00978, [Corresponding author]
 13. “Atomic Layer Deposition of Molybdenum Carbide and Substrate-dependent Reduction to Metallic Molybdenum,” Kwangyong An, Kieran G. Lawford, Bonwook Gu, Aravind H. Patil, Aaron D. Rogers, Seán T. Barry, and Han-Bo-Ram Lee*, **Journal of Materials Chemistry C**, 14 (23), 10006-10019 (2026), 4/14/2026, https://doi.org/10.1039/D6TC00454G, [Corresponding author]
