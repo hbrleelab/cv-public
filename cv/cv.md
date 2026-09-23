@@ -537,144 +537,145 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 ## Invited Lectures
 
-1. “AI-driven Digital Twin of ALD Process Environment: From Material Synthesis to Process Prediction,” AI + Ab Initio Modeling Forum, Applied Materials, online, August 21, 2026
-2. “The One Who Directs AI, The One Who Thinks With AI: From Tool to Thinking Partner — How Asking Becomes a Skill,” VPP Seminar, Future Technology Research Institute, SK hynix, Icheon, Republic of Korea, August 19, 2026
-3. “Teaching Atoms to Choose: Fundamentals and Applications of Area-Selective Atomic Layer Deposition,” Graduate School of Semiconductor Materials and Devices Engineering, UNIST, Ulsan, Republic of Korea, May 13, 2026
-4. “Building the Future Angstrom by Angstrom: Atomic Layer Deposition Strategies for 3D Nanofabrication in the AI Era,” School of Chemical and Biological Engineering, Zhejiang University, Hangzhou, China, May 6, 2026
-5. “A Experimental Learning Computational Approach: From Materials Design to Prediction of Molecular Behavior,” SK hynix, Icheon, Republic of Korea, April 8, 2026
-6. “New Paradigms in Atomic Layer Deposition for 3D Semiconductor Device Fabrication,” Korea-Japan Joint Workshop for ALD, Kumamoto, Japan, February 24, 2026
-7. “From Area-Selective Deposition to Al-Designed Materials: New Frontiers in Atomic Layer Deposition,” Korean Institute of Science and Technology, Seoul, Republic of Korea, February 12, 2026
-8. “Atomic Layer Innovations: New Pathways for Future Semiconductor Fabrication,” Thin Film Society Webinar Series, Singapore, December 17, 2025
-9. “New Paradigms in Atomic Layer Deposition for 3D Semiconductor Device Fabrication,” Department of Mechanical Engineering, Republic of Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, December 15, 2025
-10. “Atomic-Level Solutions for the Scaling Limits of Semiconductors,” SK TriChem, Sejong, Republic of Korea, November 12, 2025
-11. “How to Effectively Utilize Large Language Models for Work and Research?” SK hynix, Icheon, Republic of Korea, October 17, 2025
-12. “Expanding the Horizons of Atomic Layer Deposition for Next-Generation Semiconductor Fabrication,” TSMC, Taiwan, August 29, 2025
-13. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Department of Materials Science and Engineering, National Taiwan University, Taiwan, August 28, 2025
-14. "Ending the 2nd Technological Generation of ASD & Moving Forward to the 3rd for High-Volume Manufacturing,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 27, 2025
-15. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” TEL Korea, Suwon, Republic of Korea, June 21, 2025
-16. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Wuhan University of Technology, Wuhan, China, May 16, 2025
-17. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Mechanical Engineering, Huazhong University of Science and Technology, Wuhan, China, May 16, 2025
-18. “Cracking Semiconductor Process Technology in One Hour (반도체공정기술1시간만에뽀개기),” Incheon POSCO High School, Incheon, Republic of Korea, May 13, 2025
-19. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Micron Technology, Boise, ID, USA, April 11, 2025
-20. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Intermolecular, Santa Clara, CA, USA, November 22, 2024
-21. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Stanford University, Stanford, CA, USA, November 20, 2024
-22. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Zhejiang University, Hangzhou, China, October 17, 2024
-23. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Mechanical Engineering, POSTECH, Pohang, Republic of Korea, September 19, 2024
-24. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Department of Chemistry, University of Colorado Boulder, Boulder, CO, USA, August 20, 2024
-25. “Supercritical Fluid Deposition for Semiconductor Device Fabrications,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, July 6, 2024
-26. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Applied Materials, Santa Clara, CA, USA, May 17, 2024
-27. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Lawrence Livermore National Laboratory, Livermore, CA, USA, November 9, 2023
-28. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Materials Science and Engineering, UNIST, Ulsan, Republic of Korea, October 25, 2023
-29. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” ACS Science Talk, Online, September 8, 2023
-30. “Why is My Advisor Always Upset for My Paper Figures?” Department of Materials Science and Engineering, Phenikaa University, Ha Noi, Vietnam, August 11, 2023
-31. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Chemistry, University of Cologne, Cologne, Germany, June 3, 2023
-32. “Area Selective Deposition; The 4th Toolbox for Si Device Nanofabrication,” Department of Materials Science and Engineering, KAIST, Deajeon, Republic of Korea, May 9, 2023
-33. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond ALD,” Department of Applied Physics, Kyunghee University, Suwon, Republic of Korea, April 25, 2023
-34. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond ALD,” Argonne National Laboratory, Chicago, IL, USA, March 29, 2023
-35. “The 4th Toolbox for Nanofabrication of Si Devices,” Department of Materials Science and Engineering, Phenikaa University, Ha Noi, Vietnam, February 23, 2023
-36. “Seam-less Deposition through Gradient Selective Deposition with Homometallic Precursor Inhibitors,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, February 17, 2023
-37. “Improvement of Selectivity in Area Selective Atomic Layer Deposition using a Size Cutter,” SK Hynix, Icheon, Republic of Korea, February 16, 2023
-38. “Area Selective Deposition of Ru; A Key Process for Si Device Fabrication,” Tanaka Precious Metals, Tsukuba, Japan, January 31, 2023
-39. “Icephobic Coating through Self-formed Superhydrophobic Layer,” Department of Materials Science and Engineering, January 5, 2023
-40. “Area Selective Atomic Layer Deposition; The 4th Toolbox for Semiconductor Device Fabrication,” Department of Electrical and Electronic Engineering, Sungkyunkwan University, Suwon, Republic of Korea, January 3, 2023
-41. “Area Selective Deposition; Past, Present, and Future,” Semiconductor Laboratory, Samsung Electronics, Suwon, December 1, 2022
-42. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Chemistry, Carleton University, Ottawa, Canada, September 19, 2022
-43. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, August 18, 2022
-44. “How We Evaluate Scientific Papers?” SK hynix, Icheon, Republic of Korea, May 20, 2022
-45. “Atomic Layer Deposition for Nanofabrication beyond Deposition,” Wuhan University of Technology, online, March 22, 2022
-46. “The 4th Tool Box for Nanofabrication beyond ALD; Area Selective Deposition,” Applied Materials, online, December 9, 2021
-47. “Recent Advances in ALD/ALE Technologies for Next-Generation Semiconductor Applications,” KETI, Sungnam, Republic of Korea, October 21, 2021
-48. “The 4th Tool Box for Nanofabrication beyond Atomic Layer Deposition; Area Selective Deposition,” SK hynix, Icheon, Republic of Korea, October 19, 2021
-49. “Application of Area Selective Deposition & Atomic Layer Modulation,” SK hynix, Icheon, Republic of Korea, October 1, 2021
-50. “Area Selective Deposition And Applications,” Department of Materials Science and Engineering, Yeoungnam University, Gyeongsan, Republic of Korea, September 28, 2021
-51. “Beyond ALD; Atomic Layer Modulation,” SK hynix, Icheon, Republic of Korea, August 24, 2021
-52. “Beyond ALD; Atomic Layer Modulation,” SAIT, Samsung Electronics, Suwon, Republic of Korea, August 20, 2021
-53. “How Can We Prepare Figures for Paper Writing?” Department of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, July 12, 2021
-54. “Fundamentals of Area Selective Deposition,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 22, 2021
-55. “Fundamentals of Area Selective Deposition,” SAIT, Samsung Electronics, Suwon, Republic of Korea, June 11, 2021
-56. “The Era of Nanofabrication is Coming,” Department of Materials Science and Engineering, Seoul University of Science and Technology, Seoul, May 12, 2021
-57. “Fundamentals of Area Selective Deposition,” SK hynix, Icheon, Republic of Korea, April 26, 2021
-58. “Why is My Advisor Always Upset for My Paper Figures?” Department of Materials Science and Engineering, Yeoungnam University, Gyeongsan, Republic of Korea, April 19, 2021
-59. “How Can We Prepare Figures for Paper Writing?” Department of Materials Science and Engineering, Hanyang University ERICA, Ansan, Republic of Korea, March 28, 2021
-60. “The Era of Atomic Crafting: Area Selective Atomic Layer Deposition,” SK Materials, online, February 4, 2021
-61. “Beyond ALD; Area Selective Deposition & Atomic Layer Modulation,” Department of Chemistry, Charleton University, online, December 15, 2020
-62. “The Era of Atomic Crafting,” KETI, Sungnam, Republic of Korea, July 21, 2020
-63. “Atomic Layer Deposition on Graphene,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, July 13, 2020
-64. “Science against Pseudoscience,” Department of Materials Science and Engineering, Hanyang University ERICA, Ansan, Republic of Korea, November 27, 2019
-65. “The Era of Atomic Crafting; Area Selective Atomic Layer Deposition,” Department of Chemistry, National University of Singapore, Singapore, September 12, 2019
-66. “Science against Pseudoscience,” Department of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, September 5, 2019
-67. “Surface-reactivity-determined Patterning Technology; The Era of Atomic Crafting,” Sungkyunkwan University, Suwon, Republic of Korea, August 12, 2019
-68. “Surface-reactivity-determined Patterning Technology; The Era of Atomic Crafting,” University of California Merced, Merced, CA, USA, July 26, 2019
-69. “Science against Pseudoscience,” Yeongnam University, Kyeongsan, Republic of Korea, July 17, 2019
-70. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, June 26, 2019
-71. “Science against Pseudoscience,” Myungduk Girls’ Highschool, Seoul, Republic of Korea, March 22, 2019
-72. “Atomic Layer Deposition; A Route to Atomic Craft,” Pusan National University, Pusan, Republic of Korea, November 20, 2018
-73. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, November 8, 2018
-74. “Surface Energy Tuning in Atomic Scale for Hydrophobic Coating,” Department of Chemical Engineering, Hongik University, Seoul, November 11, 2018
-75. “Atomic Layer Deposition; A Route to Atomic Craft,” Department of Mechanical Engineering, University of Hawaii Manoa, Honolulu, September 24, 2018
-76. “A Surface-reactivity-determined Patterning Technology using Atomic Layer Deposition,” SK Hynix, Icheon, Republic of Korea, September 6, 2018
-77. “Atomic Layer Deposition; A Route to Atomic Craft,” Instituto Tecnológico de Aeronáutica, São José dos Campos, Brazil, August 14, 2018
-78. “From Surface Property Tuning to Real Applications,” Korea Institute of Science and Technology, Seoul, Republic of Korea, July 19, 2018
-79. “Atomic Layer Deposition & High-k Dielectrics for Emerging Devices,” Samsung Advanced Institute of Technology, Suwon, Republic of Korea, July 11, 2018
-80. “Thin Film Growth & Area Selective Atomic Layer Deposition,” Semiconductor Research Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 18, 2018
-81. “Thin Film Growth & Atomic Layer Deposition,” Samsung Electronics, Suwon, Republic of Korea, June 14, 2018
-82. “Area-selective Atomic Layer Deposition; A Surface-reactivity-determined Patterning Technology,” Applied Materials, Santa Clara, CA, USA, June 7, 2018
-83. “How Goals Can Make Our Life Better?” Myungduk Girls’ Highschool, Seoul, Republic of Korea, May 26, 2018
-84. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 3, 2018
-85. “Atomic Layer Deposition; A Route to Atomic Craft,” Materials Chemistry Laboratory, Institute for Basic Science, Daejeon, Republic of Korea, May 1, 2018
-86. “Hydrophobic Coating by High Tech and Low Tech Approaches,” Department of Materials Science and Engineering, Yeongnam University, Kyeongsan, Republic of Korea, December 19, 2017
-87. “From Surface Property Tuning to Real Applications,” Department of Materials Science and Engineering, Kyung Hee University, Suwon, Republic of Korea, November 11, 2017
-88. “Atomic Layer Deposition, A Key Player in Semiconductor Technology,” Lam Research, Fremont, CA, USA, July 20, 2017
-89. “From Surface Property Tuning to Real Applications,” Department of Nano and Energy Engineering, Pusan National University, Pusan, Republic of Korea, June 16, 2017
-90. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 17, 2017
-91. “How Nanotechnologies Can Make Our Life Better?,” Myungduk Highschool, Seoul, Republic of Korea, April 21, 2017
-92. “Electronic Textiles fabricated by Atomic Layer Deposition for Wearable Electronics,” Korea Institute of Industrial Technology (KITECH), Ansan, Republic of Korea, February 28, 2017
-93. “Electronic Textiles Fabricated by Atomic Layer Deposition for Wearable Electronics and Bio Applications,” Department of Chemical Engineering, Chungnam National University, Daejeon, Republic of Korea, February 23, 2017
-94. “Surface Functionalization of Graphene by Atomic Layer Deposition,” Electronic Convergence Material and Device Research Center, Republic of Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea, December 5, 2016
-95. “Atomic Layer Deposition Beyond High Technology; Electronic Textiles, Hydrophobic Filter, and Transparent 2D Heater,” Electronic Convergence Material and Device Research Center, Republic of Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea, November 11, 2016
-96. “Atomic Layer Deposition Beyond High Technology; Electronic Textiles, Hydrophobic Filter, and Transparent 2D Heater,” School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, November 9, 2016
-97. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 11, 2016
-98. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Department of Chemistry, Thammasat University, Bangkok, Thailand, October 6, 2016
-99. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Department of Materials Science and Engineering, Kasetsart University, Bangkok, Thailand, October 5, 2016
-100. “Surface Functionalization for Property Tuning,” Division of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, September 27, 2016
-101. “Conductive Textile for Sensors and Heaters,” School of Materials Science and Engineering, Yongnam University, Gyeongsan, Republic of Korea, September 21, 2016
-102. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Tera Semicon, Anseong, Gyeonggi, Republic of Korea, September 9, 2016
-103. “Atomic Layer Deposition; An Essential Tool for Nanotechnology,” Department of Materials Science and Engineering, Sejong University, Seoul, Republic of Korea, June 16, 2016
-104. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 20, 2016
-105. “Surface Functionalization for Property Tuning,” School of Advanced Materials Engineering, Sungkyunkwan University, Suwon, Republic of Korea, May 12, 2016
-106. “Surface Functionalization for Property Tuning,” Department of Mechanical Engineering, Kyunghee University, Suwon, Republic of Korea, May 9, 2016
-107. “Defect Healing of Graphene,” School of Materials Science and Engineering, Yongnam University, Gyeongsan, Republic of Korea, April 1, 2016
-108. “Platinum Atomic Layer Deposition,” Department of Mechanical Engineering, Pusan National University, Yongin, Republic of Korea, December 29, 2015
-109. “Atomic Layer Deposition for Nanofabrication,” Myungji University, Yongin, Republic of Korea, November 6, 2015
-110. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 5, 2015
-111. “Atomic Layer Deposition; An Essential Tool for Nanotechnology,” Department of Energy Science, Sungkyunkwan University, Suwon, Republic of Korea, September 30, 2015
-112. “Tutorial: Atomic Layer Deposition,” Advanced Metallization Conference 2015, Seoul, Republic of Korea, September 16, 2015
-113. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 8, 2015
-114. “Applications of Atomic Layer Deposition Pt,” Tanaka Research Center, Tsukuba, Japan, April 2, 2015
-115. “Series Class of Atomic Layer Deposition,” Samsung Electronics, Hwasung, Republic of Korea, March 5-6, 2015
-116. “Research Topics of the Lee’s Group,” Wonik IPS, Pyeongtaek, Republic of Korea, March 2, 2015
-117. “Material Synthesis and Applications by Atomic Layer Deposition,” Graduate School of Convergence Science and Technology, Seoul National University, Seoul, Republic of Korea, January 19, 2015
-118. “Low Temperature Atomic Layer Deposition of Pt for Electronic Textile Applications,” State Key Laboratory, Nanjing Tech University, Nanjing, China, January 16, 2015
-119. “Surface Functionalization by Atomic Layer Deposition,” Samsung Medical Center, Seoul, Republic of Korea, November 26, 2014
-120. “Atomic Layer Deposition,” e-Nanoschool 2014 by Korea Nano Technology Research Society, 6 on-line classes from November 18 to December 4, 2014
-121. “Atomic Layer Deposition on 2D Materials,” School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, November 5, 2014
-122. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 8, 2014
-123. “Atomic Layer Deposition of Pt and Applications,” Shonan Site, Tanaka Kikinzoku Kogyo K.K., Hiratsuka, Japan, September 19, 2014
-124. “Atomic Layer Deposition of Pt/TiO2 for VOC Removal,” Head Office, Tanaka Kikinzoku Kogyo K.K., Tokyo, Japan, September 18, 2014
-125. “Atomic Layer Deposition of Metals on 2D Materials and Applications,” Department of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, July 30, 2014
-126. “Pt/Carbon by Atomic Layer Deposition for Catalyst, Electrode, and Sensor Applications,” Electronic Materials Research Center, Republic of Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea, July 28, 2014
-127. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 15, 2014
-128. “Atomic Layer Deposition for Emerging Applications,” Department of Polymer Science and Engineering, Korean National University of Transportation, Chungju, Republic of Korea, December 23, 2013
-129. “Atomic Layer Deposition for Interconnect Technology,” Inter-University Semiconductor Research Center, Seoul National University, Seoul, Republic of Korea, November 29, 2013
-130. “What is a Scientific Paper?,” School of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, November 7, 2013
-131. “Atomic Layer Deposition of Pt on Carbon Surfaces; Graphite and Graphene,” Korea Institute of Machinery and Materials, Daejun, Republic of Korea, September 26, 2013
-132. “Atomic Layer Deposition of Pt on Carbon Surfaces; Graphite and Graphene,” Korea Research Institute of Standards and Science, Daejun, Republic of Korea, September 26, 2013
-133. “Atomic Layer Deposition of Pt on Carbon Surfaces,” Department of Mechanical Engineering, Republic of Korea University, Seoul, Republic of Korea, August 20, 2013
-134. “Atomic Layer Deposition of Pt on Carbon Surfaces” Department of Materials Science and Engineering, Yeongnam University, Daegu, Republic of Korea, June 26, 2013
-135. “Atomic Layer Deposition of Pt on Carbon Surfaces,” Graduate School of Energy, Environment, Water, and Sustainability, Republic of Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, May 8, 2013
-136. “Atomic Layer Deposition for Nanotechnologies,” Department of Chemical Engineering, Inha University, Incheon, Republic of Korea, May 3, 2013
-137. “Nucleation & Growth of ALD Metal on Carbon Surfaces,” Korean ALD Workshop 2013, Seoul, Republic of Korea, April 26, 2013
-138. “How Nanotechnologies Can Make Our Life Better?,” Myungduk Highschool, Seoul, Republic of Korea, April 23, 2013
+1. (Tutorial) “Atomic Layer Deposition and Atomic Layer Modeling: Surface Chemistry, Simulation, and Digital Twins for Semiconductor Processes,” ENGE 2026 (The 9th International Conference on Electronic Materials and Nanotechnology for Green Environment), The Korean Institute of Metals and Materials, Jeju Shinhwa World, Jeju, Republic of Korea, November 15, 2026
+2. “AI-driven Digital Twin of ALD Process Environment: From Material Synthesis to Process Prediction,” AI + Ab Initio Modeling Forum, Applied Materials, online, August 21, 2026
+3. “The One Who Directs AI, The One Who Thinks With AI: From Tool to Thinking Partner — How Asking Becomes a Skill,” VPP Seminar, Future Technology Research Institute, SK hynix, Icheon, Republic of Korea, August 19, 2026
+4. “Teaching Atoms to Choose: Fundamentals and Applications of Area-Selective Atomic Layer Deposition,” Graduate School of Semiconductor Materials and Devices Engineering, UNIST, Ulsan, Republic of Korea, May 13, 2026
+5. “Building the Future Angstrom by Angstrom: Atomic Layer Deposition Strategies for 3D Nanofabrication in the AI Era,” School of Chemical and Biological Engineering, Zhejiang University, Hangzhou, China, May 6, 2026
+6. “A Experimental Learning Computational Approach: From Materials Design to Prediction of Molecular Behavior,” SK hynix, Icheon, Republic of Korea, April 8, 2026
+7. “New Paradigms in Atomic Layer Deposition for 3D Semiconductor Device Fabrication,” Korea-Japan Joint Workshop for ALD, Kumamoto, Japan, February 24, 2026
+8. “From Area-Selective Deposition to Al-Designed Materials: New Frontiers in Atomic Layer Deposition,” Korean Institute of Science and Technology, Seoul, Republic of Korea, February 12, 2026
+9. “Atomic Layer Innovations: New Pathways for Future Semiconductor Fabrication,” Thin Film Society Webinar Series, Singapore, December 17, 2025
+10. “New Paradigms in Atomic Layer Deposition for 3D Semiconductor Device Fabrication,” Department of Mechanical Engineering, Republic of Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, December 15, 2025
+11. “Atomic-Level Solutions for the Scaling Limits of Semiconductors,” SK TriChem, Sejong, Republic of Korea, November 12, 2025
+12. “How to Effectively Utilize Large Language Models for Work and Research?” SK hynix, Icheon, Republic of Korea, October 17, 2025
+13. “Expanding the Horizons of Atomic Layer Deposition for Next-Generation Semiconductor Fabrication,” TSMC, Taiwan, August 29, 2025
+14. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Department of Materials Science and Engineering, National Taiwan University, Taiwan, August 28, 2025
+15. "Ending the 2nd Technological Generation of ASD & Moving Forward to the 3rd for High-Volume Manufacturing,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 27, 2025
+16. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” TEL Korea, Suwon, Republic of Korea, June 21, 2025
+17. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Wuhan University of Technology, Wuhan, China, May 16, 2025
+18. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Mechanical Engineering, Huazhong University of Science and Technology, Wuhan, China, May 16, 2025
+19. “Cracking Semiconductor Process Technology in One Hour (반도체공정기술1시간만에뽀개기),” Incheon POSCO High School, Incheon, Republic of Korea, May 13, 2025
+20. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Micron Technology, Boise, ID, USA, April 11, 2025
+21. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Intermolecular, Santa Clara, CA, USA, November 22, 2024
+22. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Stanford University, Stanford, CA, USA, November 20, 2024
+23. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Chemical Engineering, Zhejiang University, Hangzhou, China, October 17, 2024
+24. "The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Mechanical Engineering, POSTECH, Pohang, Republic of Korea, September 19, 2024
+25. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Department of Chemistry, University of Colorado Boulder, Boulder, CO, USA, August 20, 2024
+26. “Supercritical Fluid Deposition for Semiconductor Device Fabrications,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, July 6, 2024
+27. “Rediscovery of Atomic Layer Deposition to Overcome the Limitations of Semiconductor Manufacturing,” Applied Materials, Santa Clara, CA, USA, May 17, 2024
+28. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Lawrence Livermore National Laboratory, Livermore, CA, USA, November 9, 2023
+29. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” Department of Materials Science and Engineering, UNIST, Ulsan, Republic of Korea, October 25, 2023
+30. “The Industrial Ecosystem of Si Chips and Atomic Layer Deposition as a Key Nanofabrication Technology,” ACS Science Talk, Online, September 8, 2023
+31. “Why is My Advisor Always Upset for My Paper Figures?” Department of Materials Science and Engineering, Phenikaa University, Ha Noi, Vietnam, August 11, 2023
+32. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Chemistry, University of Cologne, Cologne, Germany, June 3, 2023
+33. “Area Selective Deposition; The 4th Toolbox for Si Device Nanofabrication,” Department of Materials Science and Engineering, KAIST, Deajeon, Republic of Korea, May 9, 2023
+34. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond ALD,” Department of Applied Physics, Kyunghee University, Suwon, Republic of Korea, April 25, 2023
+35. “The 4th Toolbox for Semiconductor Device Nanofabrication beyond ALD,” Argonne National Laboratory, Chicago, IL, USA, March 29, 2023
+36. “The 4th Toolbox for Nanofabrication of Si Devices,” Department of Materials Science and Engineering, Phenikaa University, Ha Noi, Vietnam, February 23, 2023
+37. “Seam-less Deposition through Gradient Selective Deposition with Homometallic Precursor Inhibitors,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, February 17, 2023
+38. “Improvement of Selectivity in Area Selective Atomic Layer Deposition using a Size Cutter,” SK Hynix, Icheon, Republic of Korea, February 16, 2023
+39. “Area Selective Deposition of Ru; A Key Process for Si Device Fabrication,” Tanaka Precious Metals, Tsukuba, Japan, January 31, 2023
+40. “Icephobic Coating through Self-formed Superhydrophobic Layer,” Department of Materials Science and Engineering, January 5, 2023
+41. “Area Selective Atomic Layer Deposition; The 4th Toolbox for Semiconductor Device Fabrication,” Department of Electrical and Electronic Engineering, Sungkyunkwan University, Suwon, Republic of Korea, January 3, 2023
+42. “Area Selective Deposition; Past, Present, and Future,” Semiconductor Laboratory, Samsung Electronics, Suwon, December 1, 2022
+43. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Chemistry, Carleton University, Ottawa, Canada, September 19, 2022
+44. “The 4th Tool Box for Semiconductor Device Nanofabrication beyond Atomic Layer Deposition,” Department of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, August 18, 2022
+45. “How We Evaluate Scientific Papers?” SK hynix, Icheon, Republic of Korea, May 20, 2022
+46. “Atomic Layer Deposition for Nanofabrication beyond Deposition,” Wuhan University of Technology, online, March 22, 2022
+47. “The 4th Tool Box for Nanofabrication beyond ALD; Area Selective Deposition,” Applied Materials, online, December 9, 2021
+48. “Recent Advances in ALD/ALE Technologies for Next-Generation Semiconductor Applications,” KETI, Sungnam, Republic of Korea, October 21, 2021
+49. “The 4th Tool Box for Nanofabrication beyond Atomic Layer Deposition; Area Selective Deposition,” SK hynix, Icheon, Republic of Korea, October 19, 2021
+50. “Application of Area Selective Deposition & Atomic Layer Modulation,” SK hynix, Icheon, Republic of Korea, October 1, 2021
+51. “Area Selective Deposition And Applications,” Department of Materials Science and Engineering, Yeoungnam University, Gyeongsan, Republic of Korea, September 28, 2021
+52. “Beyond ALD; Atomic Layer Modulation,” SK hynix, Icheon, Republic of Korea, August 24, 2021
+53. “Beyond ALD; Atomic Layer Modulation,” SAIT, Samsung Electronics, Suwon, Republic of Korea, August 20, 2021
+54. “How Can We Prepare Figures for Paper Writing?” Department of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, July 12, 2021
+55. “Fundamentals of Area Selective Deposition,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 22, 2021
+56. “Fundamentals of Area Selective Deposition,” SAIT, Samsung Electronics, Suwon, Republic of Korea, June 11, 2021
+57. “The Era of Nanofabrication is Coming,” Department of Materials Science and Engineering, Seoul University of Science and Technology, Seoul, May 12, 2021
+58. “Fundamentals of Area Selective Deposition,” SK hynix, Icheon, Republic of Korea, April 26, 2021
+59. “Why is My Advisor Always Upset for My Paper Figures?” Department of Materials Science and Engineering, Yeoungnam University, Gyeongsan, Republic of Korea, April 19, 2021
+60. “How Can We Prepare Figures for Paper Writing?” Department of Materials Science and Engineering, Hanyang University ERICA, Ansan, Republic of Korea, March 28, 2021
+61. “The Era of Atomic Crafting: Area Selective Atomic Layer Deposition,” SK Materials, online, February 4, 2021
+62. “Beyond ALD; Area Selective Deposition & Atomic Layer Modulation,” Department of Chemistry, Charleton University, online, December 15, 2020
+63. “The Era of Atomic Crafting,” KETI, Sungnam, Republic of Korea, July 21, 2020
+64. “Atomic Layer Deposition on Graphene,” Semiconductor Laboratory, Samsung Electronics, Suwon, Republic of Korea, July 13, 2020
+65. “Science against Pseudoscience,” Department of Materials Science and Engineering, Hanyang University ERICA, Ansan, Republic of Korea, November 27, 2019
+66. “The Era of Atomic Crafting; Area Selective Atomic Layer Deposition,” Department of Chemistry, National University of Singapore, Singapore, September 12, 2019
+67. “Science against Pseudoscience,” Department of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, September 5, 2019
+68. “Surface-reactivity-determined Patterning Technology; The Era of Atomic Crafting,” Sungkyunkwan University, Suwon, Republic of Korea, August 12, 2019
+69. “Surface-reactivity-determined Patterning Technology; The Era of Atomic Crafting,” University of California Merced, Merced, CA, USA, July 26, 2019
+70. “Science against Pseudoscience,” Yeongnam University, Kyeongsan, Republic of Korea, July 17, 2019
+71. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, June 26, 2019
+72. “Science against Pseudoscience,” Myungduk Girls’ Highschool, Seoul, Republic of Korea, March 22, 2019
+73. “Atomic Layer Deposition; A Route to Atomic Craft,” Pusan National University, Pusan, Republic of Korea, November 20, 2018
+74. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, November 8, 2018
+75. “Surface Energy Tuning in Atomic Scale for Hydrophobic Coating,” Department of Chemical Engineering, Hongik University, Seoul, November 11, 2018
+76. “Atomic Layer Deposition; A Route to Atomic Craft,” Department of Mechanical Engineering, University of Hawaii Manoa, Honolulu, September 24, 2018
+77. “A Surface-reactivity-determined Patterning Technology using Atomic Layer Deposition,” SK Hynix, Icheon, Republic of Korea, September 6, 2018
+78. “Atomic Layer Deposition; A Route to Atomic Craft,” Instituto Tecnológico de Aeronáutica, São José dos Campos, Brazil, August 14, 2018
+79. “From Surface Property Tuning to Real Applications,” Korea Institute of Science and Technology, Seoul, Republic of Korea, July 19, 2018
+80. “Atomic Layer Deposition & High-k Dielectrics for Emerging Devices,” Samsung Advanced Institute of Technology, Suwon, Republic of Korea, July 11, 2018
+81. “Thin Film Growth & Area Selective Atomic Layer Deposition,” Semiconductor Research Laboratory, Samsung Electronics, Suwon, Republic of Korea, June 18, 2018
+82. “Thin Film Growth & Atomic Layer Deposition,” Samsung Electronics, Suwon, Republic of Korea, June 14, 2018
+83. “Area-selective Atomic Layer Deposition; A Surface-reactivity-determined Patterning Technology,” Applied Materials, Santa Clara, CA, USA, June 7, 2018
+84. “How Goals Can Make Our Life Better?” Myungduk Girls’ Highschool, Seoul, Republic of Korea, May 26, 2018
+85. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 3, 2018
+86. “Atomic Layer Deposition; A Route to Atomic Craft,” Materials Chemistry Laboratory, Institute for Basic Science, Daejeon, Republic of Korea, May 1, 2018
+87. “Hydrophobic Coating by High Tech and Low Tech Approaches,” Department of Materials Science and Engineering, Yeongnam University, Kyeongsan, Republic of Korea, December 19, 2017
+88. “From Surface Property Tuning to Real Applications,” Department of Materials Science and Engineering, Kyung Hee University, Suwon, Republic of Korea, November 11, 2017
+89. “Atomic Layer Deposition, A Key Player in Semiconductor Technology,” Lam Research, Fremont, CA, USA, July 20, 2017
+90. “From Surface Property Tuning to Real Applications,” Department of Nano and Energy Engineering, Pusan National University, Pusan, Republic of Korea, June 16, 2017
+91. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 17, 2017
+92. “How Nanotechnologies Can Make Our Life Better?,” Myungduk Highschool, Seoul, Republic of Korea, April 21, 2017
+93. “Electronic Textiles fabricated by Atomic Layer Deposition for Wearable Electronics,” Korea Institute of Industrial Technology (KITECH), Ansan, Republic of Korea, February 28, 2017
+94. “Electronic Textiles Fabricated by Atomic Layer Deposition for Wearable Electronics and Bio Applications,” Department of Chemical Engineering, Chungnam National University, Daejeon, Republic of Korea, February 23, 2017
+95. “Surface Functionalization of Graphene by Atomic Layer Deposition,” Electronic Convergence Material and Device Research Center, Republic of Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea, December 5, 2016
+96. “Atomic Layer Deposition Beyond High Technology; Electronic Textiles, Hydrophobic Filter, and Transparent 2D Heater,” Electronic Convergence Material and Device Research Center, Republic of Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea, November 11, 2016
+97. “Atomic Layer Deposition Beyond High Technology; Electronic Textiles, Hydrophobic Filter, and Transparent 2D Heater,” School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, November 9, 2016
+98. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 11, 2016
+99. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Department of Chemistry, Thammasat University, Bangkok, Thailand, October 6, 2016
+100. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Department of Materials Science and Engineering, Kasetsart University, Bangkok, Thailand, October 5, 2016
+101. “Surface Functionalization for Property Tuning,” Division of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, September 27, 2016
+102. “Conductive Textile for Sensors and Heaters,” School of Materials Science and Engineering, Yongnam University, Gyeongsan, Republic of Korea, September 21, 2016
+103. “Atomic Layer Deposition; An Essential Tool for Nanofabrication,” Tera Semicon, Anseong, Gyeonggi, Republic of Korea, September 9, 2016
+104. “Atomic Layer Deposition; An Essential Tool for Nanotechnology,” Department of Materials Science and Engineering, Sejong University, Seoul, Republic of Korea, June 16, 2016
+105. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 20, 2016
+106. “Surface Functionalization for Property Tuning,” School of Advanced Materials Engineering, Sungkyunkwan University, Suwon, Republic of Korea, May 12, 2016
+107. “Surface Functionalization for Property Tuning,” Department of Mechanical Engineering, Kyunghee University, Suwon, Republic of Korea, May 9, 2016
+108. “Defect Healing of Graphene,” School of Materials Science and Engineering, Yongnam University, Gyeongsan, Republic of Korea, April 1, 2016
+109. “Platinum Atomic Layer Deposition,” Department of Mechanical Engineering, Pusan National University, Yongin, Republic of Korea, December 29, 2015
+110. “Atomic Layer Deposition for Nanofabrication,” Myungji University, Yongin, Republic of Korea, November 6, 2015
+111. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 5, 2015
+112. “Atomic Layer Deposition; An Essential Tool for Nanotechnology,” Department of Energy Science, Sungkyunkwan University, Suwon, Republic of Korea, September 30, 2015
+113. “Tutorial: Atomic Layer Deposition,” Advanced Metallization Conference 2015, Seoul, Republic of Korea, September 16, 2015
+114. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 8, 2015
+115. “Applications of Atomic Layer Deposition Pt,” Tanaka Research Center, Tsukuba, Japan, April 2, 2015
+116. “Series Class of Atomic Layer Deposition,” Samsung Electronics, Hwasung, Republic of Korea, March 5-6, 2015
+117. “Research Topics of the Lee’s Group,” Wonik IPS, Pyeongtaek, Republic of Korea, March 2, 2015
+118. “Material Synthesis and Applications by Atomic Layer Deposition,” Graduate School of Convergence Science and Technology, Seoul National University, Seoul, Republic of Korea, January 19, 2015
+119. “Low Temperature Atomic Layer Deposition of Pt for Electronic Textile Applications,” State Key Laboratory, Nanjing Tech University, Nanjing, China, January 16, 2015
+120. “Surface Functionalization by Atomic Layer Deposition,” Samsung Medical Center, Seoul, Republic of Korea, November 26, 2014
+121. “Atomic Layer Deposition,” e-Nanoschool 2014 by Korea Nano Technology Research Society, 6 on-line classes from November 18 to December 4, 2014
+122. “Atomic Layer Deposition on 2D Materials,” School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, November 5, 2014
+123. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, October 8, 2014
+124. “Atomic Layer Deposition of Pt and Applications,” Shonan Site, Tanaka Kikinzoku Kogyo K.K., Hiratsuka, Japan, September 19, 2014
+125. “Atomic Layer Deposition of Pt/TiO2 for VOC Removal,” Head Office, Tanaka Kikinzoku Kogyo K.K., Tokyo, Japan, September 18, 2014
+126. “Atomic Layer Deposition of Metals on 2D Materials and Applications,” Department of Materials Science and Engineering, Hanyang University, Seoul, Republic of Korea, July 30, 2014
+127. “Pt/Carbon by Atomic Layer Deposition for Catalyst, Electrode, and Sensor Applications,” Electronic Materials Research Center, Republic of Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea, July 28, 2014
+128. “Atomic Layer Deposition; from Fundamentals to Applications,” Semiconductor Equipment Technology Center, Chunan, Republic of Korea, May 15, 2014
+129. “Atomic Layer Deposition for Emerging Applications,” Department of Polymer Science and Engineering, Korean National University of Transportation, Chungju, Republic of Korea, December 23, 2013
+130. “Atomic Layer Deposition for Interconnect Technology,” Inter-University Semiconductor Research Center, Seoul National University, Seoul, Republic of Korea, November 29, 2013
+131. “What is a Scientific Paper?,” School of Materials Science and Engineering, Pusan National University, Pusan, Republic of Korea, November 7, 2013
+132. “Atomic Layer Deposition of Pt on Carbon Surfaces; Graphite and Graphene,” Korea Institute of Machinery and Materials, Daejun, Republic of Korea, September 26, 2013
+133. “Atomic Layer Deposition of Pt on Carbon Surfaces; Graphite and Graphene,” Korea Research Institute of Standards and Science, Daejun, Republic of Korea, September 26, 2013
+134. “Atomic Layer Deposition of Pt on Carbon Surfaces,” Department of Mechanical Engineering, Republic of Korea University, Seoul, Republic of Korea, August 20, 2013
+135. “Atomic Layer Deposition of Pt on Carbon Surfaces” Department of Materials Science and Engineering, Yeongnam University, Daegu, Republic of Korea, June 26, 2013
+136. “Atomic Layer Deposition of Pt on Carbon Surfaces,” Graduate School of Energy, Environment, Water, and Sustainability, Republic of Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, May 8, 2013
+137. “Atomic Layer Deposition for Nanotechnologies,” Department of Chemical Engineering, Inha University, Incheon, Republic of Korea, May 3, 2013
+138. “Nucleation & Growth of ALD Metal on Carbon Surfaces,” Korean ALD Workshop 2013, Seoul, Republic of Korea, April 26, 2013
+139. “How Nanotechnologies Can Make Our Life Better?,” Myungduk Highschool, Seoul, Republic of Korea, April 23, 2013
 
 ## Professional Activities
 
