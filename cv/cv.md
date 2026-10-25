@@ -162,11 +162,6 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 - Dohyun Kim, MS Course (Dept. of Intelligent Semiconductor Engineering, INU, March 2026 – August 2026 → Graduate School of Semiconductor Materials & Devices Engineering, UNIST, September 2026 – present)
     - Kinetic MC simulation, AI-driven ALD
 
-#### Undergraduate Internship
-
-- Nayoung Lee, Undergraduate Internship (Dept. of Materials Science Engineering, INU, June 2025 – present)
-    - High crystallinity in ultrathin films
-
 ### Alumni
 
 
@@ -195,6 +190,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 #### Undergraduate Internship
 
+- Nayoung Lee, Undergraduate Internship (Dept. of Materials Science Engineering, INU, June 2025 – October 2026), High crystallinity in ultrathin films 
 - You Chan Ko, Undergraduate Internship (Dept. of Materials Science Engineering, INU, June 2025 – May 2026), Hot wire ALD, ASD
 - Min Sung Kim (now at Applied Materials Korea), Undergraduate Internship (Dept. of Materials Science Engineering, INU, February 2020 – November 2022), MC Simulation for precursor adsorption
 - Hyuna Bang, Undergraduate Internship (Dept. of Materials Science Engineering, INU, December 2021 – March 2022), ALD, AS-ALD
