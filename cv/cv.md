@@ -537,7 +537,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 ## Invited Lectures
 
-1. (Invited Expert Seminar) Workshop of the Core Research Equipment Technology Development Program (organized by Prof. Jihwan An, POSTECH, with CN1, POSTECH and UNIST), Sonocam Gyeongju, Gyeongju, Republic of Korea, November 20, 2026
+1. (Invited Expert Seminar) “Digital Twin of ALD and Your Research,” Workshop of the Core Research Equipment Technology Development Program (organized by Prof. Jihwan An, POSTECH, with CN1, POSTECH and UNIST), Sonocam Gyeongju, Gyeongju, Republic of Korea, November 20, 2026
 2. (Tutorial) “Atomic Layer Deposition and Atomic Layer Modeling: Surface Chemistry, Simulation, and Digital Twins for Semiconductor Processes,” ENGE 2026 (The 9th International Conference on Electronic Materials and Nanotechnology for Green Environment), The Korean Institute of Metals and Materials, Jeju Shinhwa World, Jeju, Republic of Korea, November 15, 2026
 3. “AI-driven Digital Twin of ALD Process Environment: From Material Synthesis to Process Prediction,” AI + Ab Initio Modeling Forum, Applied Materials, online, August 21, 2026
 4. “The One Who Directs AI, The One Who Thinks With AI: From Tool to Thinking Partner — How Asking Becomes a Skill,” VPP Seminar, Future Technology Research Institute, SK hynix, Icheon, Republic of Korea, August 19, 2026
