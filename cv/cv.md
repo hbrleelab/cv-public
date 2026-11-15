@@ -543,7 +543,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 4. “The One Who Directs AI, The One Who Thinks With AI: From Tool to Thinking Partner — How Asking Becomes a Skill,” VPP Seminar, Future Technology Research Institute, SK hynix, Icheon, Republic of Korea, August 19, 2026
 5. “Teaching Atoms to Choose: Fundamentals and Applications of Area-Selective Atomic Layer Deposition,” Graduate School of Semiconductor Materials and Devices Engineering, UNIST, Ulsan, Republic of Korea, May 13, 2026
 6. “Building the Future Angstrom by Angstrom: Atomic Layer Deposition Strategies for 3D Nanofabrication in the AI Era,” School of Chemical and Biological Engineering, Zhejiang University, Hangzhou, China, May 6, 2026
-7. “Supercritical Fluid Deposition for 3D Semiconductor Device Fabrications,” TES, Republic of Korea, April 27, 2026
+7. “Supercritical Fluid Deposition for 3D Semiconductor Device Fabrications,” TES Co., Ltd., Yongin, Republic of Korea, April 27, 2026
 8. “A Experimental Learning Computational Approach: From Materials Design to Prediction of Molecular Behavior,” SK hynix, Icheon, Republic of Korea, April 8, 2026
 9. “New Paradigms in Atomic Layer Deposition for 3D Semiconductor Device Fabrication,” Korea-Japan Joint Workshop for ALD, Kumamoto, Japan, February 24, 2026
 10. “From Area-Selective Deposition to Al-Designed Materials: New Frontiers in Atomic Layer Deposition,” Korean Institute of Science and Technology, Seoul, Republic of Korea, February 12, 2026
