@@ -165,7 +165,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 #### Ph.D. Students
 
-- Dr. Summal Zoha (now Postdoc, Stanford University, September 2026 – present), Ph.D. Course (INU), Area selective ALD
+- Dr. Summal Zoha (now Postdoc, Stanford University, September 2026 – present), Ph.D. Course (Dept. of Materials Science Engineering, INU), Area selective ALD
 - Dr. Bonwook Gu (now at SK hynix), Ph.D. Course (Dept. of Materials Science Engineering, INU, March 2022 – July 2026), Metal ALD, kinetic MC simulation, AI-driven ALD
 - Dr. Chi Thang Nguyen (now at IFW Dresden), Ph.D. Course (Dept. of Materials Science Engineering, INU, March 2018 – August 2023), Area selective ALD, TiO<sub>2</sub>
 - Dr. Sumaira Yasmeen (now at University of Colorado at Boulder), Ph.D. Course (Dept. of Materials Science Engineering, INU, September 2018 – September 2022), Selective deposition of Ru and SiO<sub>2</sub>
