@@ -132,8 +132,6 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 - Dr. Aravind H. Patil, Postdoctoral Scholar (Korea Polar Research Institute (KOPRI) & Dept. of Materials Science Engineering, INU, January 2022 – August 2026 → KOPRI & Graduate School of Semiconductor Materials & Devices Engineering, UNIST, September 2026 – present)
     - Superhydrophobic/Icephobic coatings, Atomic layer deposition
-- Dr. Summal Zoha, Postdoctoral Scholar (Dept. of Materials Science Engineering, INU, June 2026 – present)
-    - Area selective ALD
 - Dr. Ngoc Le Trinh, Postdoctoral Scholar (Dept. of Materials Science Engineering, INU, June 2026 – August 2026 → Graduate School of Semiconductor Materials & Devices Engineering, UNIST, September 2026 – present)
     - Atomic layer modulation, Density functional theory
 
@@ -167,6 +165,7 @@ Prof. Lee’s current research focuses on bridging AI-driven materials synthesis
 
 #### Ph.D. Students
 
+- Dr. Summal Zoha (now Postdoc, Stanford University, September 2026 – present), Ph.D. Course (INU), Area selective ALD
 - Dr. Bonwook Gu (now at SK hynix), Ph.D. Course (Dept. of Materials Science Engineering, INU, March 2022 – July 2026), Metal ALD, kinetic MC simulation, AI-driven ALD
 - Dr. Chi Thang Nguyen (now at IFW Dresden), Ph.D. Course (Dept. of Materials Science Engineering, INU, March 2018 – August 2023), Area selective ALD, TiO<sub>2</sub>
 - Dr. Sumaira Yasmeen (now at University of Colorado at Boulder), Ph.D. Course (Dept. of Materials Science Engineering, INU, September 2018 – September 2022), Selective deposition of Ru and SiO<sub>2</sub>
